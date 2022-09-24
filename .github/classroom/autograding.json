@@ -26,7 +26,7 @@
       "run": "g++ -std=c++11 A64.cpp && ./a.out",
       "input": "70 90",
       "output": "[71, 73, 79, 83, 89]",
-      "comparison": "included",
+      "comparison": "regex",
       "timeout": 10,
       "points": 1
     }
